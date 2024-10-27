@@ -70770,22 +70770,21 @@ $3(a,b,c){var s=null
 return A.cu("My Personal Portfolio",s,s,s,A.al(a).p3.d.a6_(B.i,b,B.cX,0),s)},
 $S:79}
 A.FW.prototype={
-I(a){var s,r=null,q=t.w,p=A.aI(a,B.v,q).w.a,o=t.p,n=A.a([],o)
-if(!(A.aI(a,B.v,q).w.a.a>1024))n.push(A.e8(r,p.b*0.06,r))
-if(!(A.aI(a,B.v,q).w.a.a>1024))n.push(A.dU(A.a([A.e8(r,r,p.a*0.23),B.xQ],o),B.E,B.B,B.w))
-if(!(A.aI(a,B.v,q).w.a.a>1024))n.push(A.e8(r,p.b*0.1,r))
-n.push(B.No)
-s=A.aI(a,B.v,q).w
-if(s.a.a<=700)n.push(A.cG(r,r,B.q,B.S,r,r,r,20,r,r,r,r,r))
-n.push(B.ED)
-n.push(B.be)
-n.push(B.Nm)
-n.push(B.iR)
-n.push(B.Fc)
-o=A.a([A.aio(A.fq(n,B.ay,B.ck,B.w)),B.ae],o)
-if(A.aI(a,B.v,q).w.a.a>1024)o.push(B.jK)
-o.push(B.ae)
-return A.dU(o,B.E,B.B,B.w)}}
+I(a){var s=null,r=t.w,q=A.aI(a,B.v,r).w.a,p=t.p,o=A.a([],p)
+if(!(A.aI(a,B.v,r).w.a.a>1024))o.push(A.e8(s,q.b*0.06,s))
+if(!(A.aI(a,B.v,r).w.a.a>1024))o.push(A.dU(A.a([A.e8(s,s,q.a*0.23),B.xQ],p),B.E,B.B,B.w))
+if(!(A.aI(a,B.v,r).w.a.a>1024))o.push(A.e8(s,q.b*0.1,s))
+o.push(B.No)
+if(A.aI(a,B.v,r).w.a.a<=700)o.push(A.cG(s,s,B.q,B.S,s,s,s,20,s,s,s,s,s))
+o.push(B.ED)
+o.push(B.be)
+o.push(B.Nm)
+o.push(B.iR)
+o.push(B.Fc)
+p=A.a([A.aio(A.fq(o,B.ay,B.ck,B.w)),B.ae],p)
+if(A.aI(a,B.v,r).w.a.a>1024)p.push(B.jK)
+p.push(B.ae)
+return A.dU(p,B.E,B.B,B.w)}}
 A.w7.prototype={
 I(a){return A.fq(A.a([B.ae,A.oA(new A.a0B(this),B.T,new A.au(0,1,t.Y),t.i),B.Po],t.p),B.E,B.B,B.w)}}
 A.a0B.prototype={
